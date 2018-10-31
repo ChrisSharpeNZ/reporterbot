@@ -1,3 +1,0 @@
-This file was made for master branch
-
-This file was edited in file2feature
